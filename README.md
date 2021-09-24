@@ -13,3 +13,9 @@ Todos los archivos necesarios se encuentran disponibles en la carpeta public_htm
 
 ## ¿Cómo se vería Chromatika?
 A continuación muestro algunas capturas de pantalla del proyecto, que de momento no está alojado en ningún servidor:
+
+![Captura 1](https://github.com/xtiancc/DAW-Chromatika/blob/main/screenshots/1.jpg)
+
+![Captura 2](https://github.com/xtiancc/DAW-Chromatika/blob/main/screenshots/2.jpg)
+
+![Captura 3](https://github.com/xtiancc/DAW-Chromatika/blob/main/screenshots/3.jpg)
